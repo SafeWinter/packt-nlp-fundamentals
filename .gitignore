@@ -1,3 +1,9 @@
 **/**/glove.6B.50d.txt
 **/**/.ipynb_checkpoints/*
-**/**/img/*
+**/**/img/*anaconda_projects
+
+# DIY ignore items
+.gitignore
+anaconda_projects
+.virtual_documents
+packt-nlp-fundamentals-master.zip
